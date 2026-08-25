@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 98,
+    "unlocked": 100,
     "total": 197,
-    "percent": 49.75,
+    "percent": 50.76,
     "items": [
       {
         "apiName": "ACH_001",
@@ -863,8 +863,8 @@
       {
         "apiName": "ACH_143",
         "displayName": "Combattant coopératif",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-25T21:19:47.000Z"
       },
       {
         "apiName": "ACH_144",
@@ -881,8 +881,8 @@
       {
         "apiName": "ACH_146",
         "displayName": "Pro-skateur",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-25T21:02:23.000Z"
       },
       {
         "apiName": "ACH_147",
@@ -1194,10 +1194,22 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 6856,
-    "hours": 114.27
+    "minutes": 6886,
+    "hours": 114.77
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_143",
+      "displayName": "Combattant coopératif",
+      "unlocked": true,
+      "unlockTime": "2026-08-25T21:19:47.000Z"
+    },
+    {
+      "apiName": "ACH_146",
+      "displayName": "Pro-skateur",
+      "unlocked": true,
+      "unlockTime": "2026-08-25T21:02:23.000Z"
+    },
     {
       "apiName": "ACH_148",
       "displayName": "Rongé par les Ténèbres",
@@ -1245,19 +1257,7 @@
       "displayName": "Dieu du Colisée",
       "unlocked": true,
       "unlockTime": "2026-06-10T15:22:40.000Z"
-    },
-    {
-      "apiName": "ACH_106",
-      "displayName": "Atteindre les cimes",
-      "unlocked": true,
-      "unlockTime": "2026-06-10T15:08:56.000Z"
-    },
-    {
-      "apiName": "ACH_136",
-      "displayName": "Docteur ès Sans-cœur",
-      "unlocked": true,
-      "unlockTime": "2026-06-08T20:28:33.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T21:00:27.387Z"
+  "updatedAt": "2026-08-25T21:30:27.222Z"
 }
