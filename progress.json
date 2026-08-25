@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 97,
+    "unlocked": 98,
     "total": 197,
-    "percent": 49.24,
+    "percent": 49.75,
     "items": [
       {
         "apiName": "ACH_001",
@@ -893,8 +893,8 @@
       {
         "apiName": "ACH_148",
         "displayName": "Rongé par les Ténèbres",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-25T20:48:21.000Z"
       },
       {
         "apiName": "ACH_149",
@@ -1199,6 +1199,12 @@
   },
   "recentUnlocked": [
     {
+      "apiName": "ACH_148",
+      "displayName": "Rongé par les Ténèbres",
+      "unlocked": true,
+      "unlockTime": "2026-08-25T20:48:21.000Z"
+    },
+    {
       "apiName": "ACH_144",
       "displayName": "Maître-artisan",
       "unlocked": true,
@@ -1251,13 +1257,7 @@
       "displayName": "Docteur ès Sans-cœur",
       "unlocked": true,
       "unlockTime": "2026-06-08T20:28:33.000Z"
-    },
-    {
-      "apiName": "ACH_118",
-      "displayName": "Héros du Colisée",
-      "unlocked": true,
-      "unlockTime": "2026-06-08T17:05:28.000Z"
     }
   ],
-  "updatedAt": "2026-08-25T20:30:38.415Z"
+  "updatedAt": "2026-08-25T21:00:27.387Z"
 }
