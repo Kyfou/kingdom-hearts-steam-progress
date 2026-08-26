@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 100,
+    "unlocked": 101,
     "total": 197,
-    "percent": 50.76,
+    "percent": 51.27,
     "items": [
       {
         "apiName": "ACH_001",
@@ -857,8 +857,8 @@
       {
         "apiName": "ACH_142",
         "displayName": "Petit joueur",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-26T09:48:36.000Z"
       },
       {
         "apiName": "ACH_143",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 6964,
-    "hours": 116.07
+    "minutes": 6994,
+    "hours": 116.57
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_142",
+      "displayName": "Petit joueur",
+      "unlocked": true,
+      "unlockTime": "2026-08-26T09:48:36.000Z"
+    },
     {
       "apiName": "ACH_143",
       "displayName": "Combattant coopératif",
@@ -1251,13 +1257,7 @@
       "displayName": "Dieu du ciel",
       "unlocked": true,
       "unlockTime": "2026-06-11T00:11:25.000Z"
-    },
-    {
-      "apiName": "ACH_119",
-      "displayName": "Dieu du Colisée",
-      "unlocked": true,
-      "unlockTime": "2026-06-10T15:22:40.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T09:30:27.285Z"
+  "updatedAt": "2026-08-26T10:00:27.632Z"
 }
