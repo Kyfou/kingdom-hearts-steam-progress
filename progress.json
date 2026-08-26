@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 107,
+    "unlocked": 108,
     "total": 197,
-    "percent": 54.31,
+    "percent": 54.82,
     "items": [
       {
         "apiName": "ACH_001",
@@ -425,8 +425,8 @@
       {
         "apiName": "ACH_070",
         "displayName": "Carte de souvenance",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-26T20:39:56.000Z"
       },
       {
         "apiName": "ACH_071",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 7336,
-    "hours": 122.27
+    "minutes": 7366,
+    "hours": 122.77
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_070",
+      "displayName": "Carte de souvenance",
+      "unlocked": true,
+      "unlockTime": "2026-08-26T20:39:56.000Z"
+    },
     {
       "apiName": "ACH_087",
       "displayName": "Trieur de cartes novice",
@@ -1251,13 +1257,7 @@
       "displayName": "Pro-skateur",
       "unlocked": true,
       "unlockTime": "2026-08-25T21:02:23.000Z"
-    },
-    {
-      "apiName": "ACH_148",
-      "displayName": "Rongé par les Ténèbres",
-      "unlocked": true,
-      "unlockTime": "2026-08-25T20:48:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T15:30:29.030Z"
+  "updatedAt": "2026-08-26T21:00:26.994Z"
 }
