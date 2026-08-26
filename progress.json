@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 101,
+    "unlocked": 105,
     "total": 197,
-    "percent": 51.27,
+    "percent": 53.3,
     "items": [
       {
         "apiName": "ACH_001",
@@ -653,8 +653,8 @@
       {
         "apiName": "ACH_108",
         "displayName": "Volonté Persistante",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-26T13:54:29.000Z"
       },
       {
         "apiName": "ACH_109",
@@ -815,8 +815,8 @@
       {
         "apiName": "ACH_135",
         "displayName": "Professeur",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-26T13:59:36.000Z"
       },
       {
         "apiName": "ACH_136",
@@ -851,8 +851,8 @@
       {
         "apiName": "ACH_141",
         "displayName": "Conquérant",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-26T13:55:12.000Z"
       },
       {
         "apiName": "ACH_142",
@@ -875,8 +875,8 @@
       {
         "apiName": "ACH_145",
         "displayName": "Album de famille",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-26T13:55:12.000Z"
       },
       {
         "apiName": "ACH_146",
@@ -1194,10 +1194,34 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 7204,
-    "hours": 120.07
+    "minutes": 7234,
+    "hours": 120.57
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_135",
+      "displayName": "Professeur",
+      "unlocked": true,
+      "unlockTime": "2026-08-26T13:59:36.000Z"
+    },
+    {
+      "apiName": "ACH_141",
+      "displayName": "Conquérant",
+      "unlocked": true,
+      "unlockTime": "2026-08-26T13:55:12.000Z"
+    },
+    {
+      "apiName": "ACH_145",
+      "displayName": "Album de famille",
+      "unlocked": true,
+      "unlockTime": "2026-08-26T13:55:12.000Z"
+    },
+    {
+      "apiName": "ACH_108",
+      "displayName": "Volonté Persistante",
+      "unlocked": true,
+      "unlockTime": "2026-08-26T13:54:29.000Z"
+    },
     {
       "apiName": "ACH_142",
       "displayName": "Petit joueur",
@@ -1233,31 +1257,7 @@
       "displayName": "Chasseur de trésors",
       "unlocked": true,
       "unlockTime": "2026-06-11T10:03:58.000Z"
-    },
-    {
-      "apiName": "ACH_134",
-      "displayName": "Chercheur",
-      "unlocked": true,
-      "unlockTime": "2026-06-11T10:03:45.000Z"
-    },
-    {
-      "apiName": "ACH_110",
-      "displayName": "Organisation sous domination",
-      "unlocked": true,
-      "unlockTime": "2026-06-11T10:03:09.000Z"
-    },
-    {
-      "apiName": "ACH_152",
-      "displayName": "Ingénieur aéronautique",
-      "unlocked": true,
-      "unlockTime": "2026-06-11T00:50:21.000Z"
-    },
-    {
-      "apiName": "ACH_151",
-      "displayName": "Dieu du ciel",
-      "unlocked": true,
-      "unlockTime": "2026-06-11T00:11:25.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T13:30:27.561Z"
+  "updatedAt": "2026-08-26T14:00:32.874Z"
 }
