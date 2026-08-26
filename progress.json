@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 105,
+    "unlocked": 107,
     "total": 197,
-    "percent": 53.3,
+    "percent": 54.31,
     "items": [
       {
         "apiName": "ACH_001",
@@ -527,8 +527,8 @@
       {
         "apiName": "ACH_087",
         "displayName": "Trieur de cartes novice",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-26T15:25:36.000Z"
       },
       {
         "apiName": "ACH_088",
@@ -617,8 +617,8 @@
       {
         "apiName": "ACH_102",
         "displayName": "Pro du lancer",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-26T15:14:58.000Z"
       },
       {
         "apiName": "ACH_103",
@@ -1194,10 +1194,22 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 7294,
-    "hours": 121.57
+    "minutes": 7336,
+    "hours": 122.27
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_087",
+      "displayName": "Trieur de cartes novice",
+      "unlocked": true,
+      "unlockTime": "2026-08-26T15:25:36.000Z"
+    },
+    {
+      "apiName": "ACH_102",
+      "displayName": "Pro du lancer",
+      "unlocked": true,
+      "unlockTime": "2026-08-26T15:14:58.000Z"
+    },
     {
       "apiName": "ACH_135",
       "displayName": "Professeur",
@@ -1245,19 +1257,7 @@
       "displayName": "Rongé par les Ténèbres",
       "unlocked": true,
       "unlockTime": "2026-08-25T20:48:21.000Z"
-    },
-    {
-      "apiName": "ACH_144",
-      "displayName": "Maître-artisan",
-      "unlocked": true,
-      "unlockTime": "2026-06-11T13:48:49.000Z"
-    },
-    {
-      "apiName": "ACH_138",
-      "displayName": "Chasseur de trésors",
-      "unlocked": true,
-      "unlockTime": "2026-06-11T10:03:58.000Z"
     }
   ],
-  "updatedAt": "2026-08-26T15:00:27.283Z"
+  "updatedAt": "2026-08-26T15:30:29.030Z"
 }
