@@ -1194,8 +1194,8 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 7585,
-    "hours": 126.42
+    "minutes": 7632,
+    "hours": 127.2
   },
   "recentUnlocked": [
     {
@@ -1259,5 +1259,5 @@
       "unlockTime": "2026-08-25T21:02:23.000Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:00:30.563Z"
+  "updatedAt": "2026-08-27T18:30:27.878Z"
 }
