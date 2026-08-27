@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 108,
+    "unlocked": 109,
     "total": 197,
-    "percent": 54.82,
+    "percent": 55.33,
     "items": [
       {
         "apiName": "ACH_001",
@@ -569,8 +569,8 @@
       {
         "apiName": "ACH_094",
         "displayName": "Sur le fil du rasoir",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-27T18:32:03.000Z"
       },
       {
         "apiName": "ACH_095",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 7632,
-    "hours": 127.2
+    "minutes": 7662,
+    "hours": 127.7
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_094",
+      "displayName": "Sur le fil du rasoir",
+      "unlocked": true,
+      "unlockTime": "2026-08-27T18:32:03.000Z"
+    },
     {
       "apiName": "ACH_070",
       "displayName": "Carte de souvenance",
@@ -1251,13 +1257,7 @@
       "displayName": "Combattant coopératif",
       "unlocked": true,
       "unlockTime": "2026-08-25T21:19:47.000Z"
-    },
-    {
-      "apiName": "ACH_146",
-      "displayName": "Pro-skateur",
-      "unlocked": true,
-      "unlockTime": "2026-08-25T21:02:23.000Z"
     }
   ],
-  "updatedAt": "2026-08-27T18:30:27.878Z"
+  "updatedAt": "2026-08-27T19:00:27.822Z"
 }
