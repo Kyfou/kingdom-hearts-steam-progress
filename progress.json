@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 115,
+    "unlocked": 116,
     "total": 197,
-    "percent": 58.38,
+    "percent": 58.88,
     "items": [
       {
         "apiName": "ACH_001",
@@ -407,8 +407,8 @@
       {
         "apiName": "ACH_067",
         "displayName": "Chasseur d'abeilles",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-30T20:04:52.000Z"
       },
       {
         "apiName": "ACH_068",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 8157,
-    "hours": 135.95
+    "minutes": 8187,
+    "hours": 136.45
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_067",
+      "displayName": "Chasseur d'abeilles",
+      "unlocked": true,
+      "unlockTime": "2026-08-30T20:04:52.000Z"
+    },
     {
       "apiName": "ACH_082",
       "displayName": "Pro des mini-jeux - Sora",
@@ -1251,13 +1257,7 @@
       "displayName": "Trieur de cartes novice",
       "unlocked": true,
       "unlockTime": "2026-08-26T15:25:36.000Z"
-    },
-    {
-      "apiName": "ACH_102",
-      "displayName": "Pro du lancer",
-      "unlocked": true,
-      "unlockTime": "2026-08-26T15:14:58.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T20:00:37.848Z"
+  "updatedAt": "2026-08-30T20:30:36.315Z"
 }
