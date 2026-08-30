@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 109,
+    "unlocked": 110,
     "total": 197,
-    "percent": 55.33,
+    "percent": 55.84,
     "items": [
       {
         "apiName": "ACH_001",
@@ -431,8 +431,8 @@
       {
         "apiName": "ACH_071",
         "displayName": "Souvenirs entremêlés",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-30T12:22:08.000Z"
       },
       {
         "apiName": "ACH_072",
@@ -1199,6 +1199,12 @@
   },
   "recentUnlocked": [
     {
+      "apiName": "ACH_071",
+      "displayName": "Souvenirs entremêlés",
+      "unlocked": true,
+      "unlockTime": "2026-08-30T12:22:08.000Z"
+    },
+    {
       "apiName": "ACH_094",
       "displayName": "Sur le fil du rasoir",
       "unlocked": true,
@@ -1251,13 +1257,7 @@
       "displayName": "Petit joueur",
       "unlocked": true,
       "unlockTime": "2026-08-26T09:48:36.000Z"
-    },
-    {
-      "apiName": "ACH_143",
-      "displayName": "Combattant coopératif",
-      "unlocked": true,
-      "unlockTime": "2026-08-25T21:19:47.000Z"
     }
   ],
-  "updatedAt": "2026-08-27T21:30:27.704Z"
+  "updatedAt": "2026-08-30T12:30:36.761Z"
 }
