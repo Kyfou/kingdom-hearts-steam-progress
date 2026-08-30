@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 110,
+    "unlocked": 111,
     "total": 197,
-    "percent": 55.84,
+    "percent": 56.35,
     "items": [
       {
         "apiName": "ACH_001",
@@ -383,8 +383,8 @@
       {
         "apiName": "ACH_063",
         "displayName": "Trieur de légumes",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-30T19:23:30.000Z"
       },
       {
         "apiName": "ACH_064",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 8097,
-    "hours": 134.95
+    "minutes": 8127,
+    "hours": 135.45
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_063",
+      "displayName": "Trieur de légumes",
+      "unlocked": true,
+      "unlockTime": "2026-08-30T19:23:30.000Z"
+    },
     {
       "apiName": "ACH_071",
       "displayName": "Souvenirs entremêlés",
@@ -1251,13 +1257,7 @@
       "displayName": "Volonté Persistante",
       "unlocked": true,
       "unlockTime": "2026-08-26T13:54:29.000Z"
-    },
-    {
-      "apiName": "ACH_142",
-      "displayName": "Petit joueur",
-      "unlocked": true,
-      "unlockTime": "2026-08-26T09:48:36.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T19:00:40.577Z"
+  "updatedAt": "2026-08-30T19:30:36.858Z"
 }
