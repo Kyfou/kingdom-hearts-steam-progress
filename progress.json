@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 111,
+    "unlocked": 115,
     "total": 197,
-    "percent": 56.35,
+    "percent": 58.38,
     "items": [
       {
         "apiName": "ACH_001",
@@ -389,20 +389,20 @@
       {
         "apiName": "ACH_064",
         "displayName": "Barreur",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-30T19:32:59.000Z"
       },
       {
         "apiName": "ACH_065",
         "displayName": "Sauteur",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-30T19:43:37.000Z"
       },
       {
         "apiName": "ACH_066",
         "displayName": "Voltigeur",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-30T19:47:49.000Z"
       },
       {
         "apiName": "ACH_067",
@@ -497,8 +497,8 @@
       {
         "apiName": "ACH_082",
         "displayName": "Pro des mini-jeux - Sora",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-08-30T19:55:59.000Z"
       },
       {
         "apiName": "ACH_083",
@@ -1194,10 +1194,34 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 8127,
-    "hours": 135.45
+    "minutes": 8157,
+    "hours": 135.95
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_082",
+      "displayName": "Pro des mini-jeux - Sora",
+      "unlocked": true,
+      "unlockTime": "2026-08-30T19:55:59.000Z"
+    },
+    {
+      "apiName": "ACH_066",
+      "displayName": "Voltigeur",
+      "unlocked": true,
+      "unlockTime": "2026-08-30T19:47:49.000Z"
+    },
+    {
+      "apiName": "ACH_065",
+      "displayName": "Sauteur",
+      "unlocked": true,
+      "unlockTime": "2026-08-30T19:43:37.000Z"
+    },
+    {
+      "apiName": "ACH_064",
+      "displayName": "Barreur",
+      "unlocked": true,
+      "unlockTime": "2026-08-30T19:32:59.000Z"
+    },
     {
       "apiName": "ACH_063",
       "displayName": "Trieur de légumes",
@@ -1233,31 +1257,7 @@
       "displayName": "Pro du lancer",
       "unlocked": true,
       "unlockTime": "2026-08-26T15:14:58.000Z"
-    },
-    {
-      "apiName": "ACH_135",
-      "displayName": "Professeur",
-      "unlocked": true,
-      "unlockTime": "2026-08-26T13:59:36.000Z"
-    },
-    {
-      "apiName": "ACH_141",
-      "displayName": "Conquérant",
-      "unlocked": true,
-      "unlockTime": "2026-08-26T13:55:12.000Z"
-    },
-    {
-      "apiName": "ACH_145",
-      "displayName": "Album de famille",
-      "unlocked": true,
-      "unlockTime": "2026-08-26T13:55:12.000Z"
-    },
-    {
-      "apiName": "ACH_108",
-      "displayName": "Volonté Persistante",
-      "unlocked": true,
-      "unlockTime": "2026-08-26T13:54:29.000Z"
     }
   ],
-  "updatedAt": "2026-08-30T19:30:36.858Z"
+  "updatedAt": "2026-08-30T20:00:37.848Z"
 }
