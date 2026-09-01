@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 125,
+    "unlocked": 126,
     "total": 197,
-    "percent": 63.45,
+    "percent": 63.96,
     "items": [
       {
         "apiName": "ACH_001",
@@ -455,8 +455,8 @@
       {
         "apiName": "ACH_075",
         "displayName": "Affronter les Ténèbres",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-01T20:05:29.000Z"
       },
       {
         "apiName": "ACH_076",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 8761,
-    "hours": 146.02
+    "minutes": 8791,
+    "hours": 146.52
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_075",
+      "displayName": "Affronter les Ténèbres",
+      "unlocked": true,
+      "unlockTime": "2026-09-01T20:05:29.000Z"
+    },
     {
       "apiName": "ACH_056",
       "displayName": "Joueur expert - Sora",
@@ -1251,13 +1257,7 @@
       "displayName": "Nabab",
       "unlocked": true,
       "unlockTime": "2026-09-01T14:52:51.000Z"
-    },
-    {
-      "apiName": "ACH_067",
-      "displayName": "Chasseur d'abeilles",
-      "unlocked": true,
-      "unlockTime": "2026-08-30T20:04:52.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T20:00:42.392Z"
+  "updatedAt": "2026-09-01T20:30:36.838Z"
 }
