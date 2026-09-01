@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 119,
+    "unlocked": 125,
     "total": 197,
-    "percent": 60.41,
+    "percent": 63.45,
     "items": [
       {
         "apiName": "ACH_001",
@@ -341,8 +341,8 @@
       {
         "apiName": "ACH_056",
         "displayName": "Joueur expert - Sora",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-01T19:33:44.000Z"
       },
       {
         "apiName": "ACH_057",
@@ -353,14 +353,14 @@
       {
         "apiName": "ACH_058",
         "displayName": "Invaincu",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-01T19:33:44.000Z"
       },
       {
         "apiName": "ACH_059",
         "displayName": "Joueur doué - Sora",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-01T19:33:44.000Z"
       },
       {
         "apiName": "ACH_060",
@@ -371,8 +371,8 @@
       {
         "apiName": "ACH_061",
         "displayName": "Joueur novice - Sora",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-01T19:33:44.000Z"
       },
       {
         "apiName": "ACH_062",
@@ -413,8 +413,8 @@
       {
         "apiName": "ACH_068",
         "displayName": "Dormir pour se souvenir",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-01T19:33:44.000Z"
       },
       {
         "apiName": "ACH_069",
@@ -545,8 +545,8 @@
       {
         "apiName": "ACH_090",
         "displayName": "Bravoure indéfectible",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-01T19:33:44.000Z"
       },
       {
         "apiName": "ACH_091",
@@ -1194,10 +1194,46 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 8731,
-    "hours": 145.52
+    "minutes": 8761,
+    "hours": 146.02
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_056",
+      "displayName": "Joueur expert - Sora",
+      "unlocked": true,
+      "unlockTime": "2026-09-01T19:33:44.000Z"
+    },
+    {
+      "apiName": "ACH_058",
+      "displayName": "Invaincu",
+      "unlocked": true,
+      "unlockTime": "2026-09-01T19:33:44.000Z"
+    },
+    {
+      "apiName": "ACH_059",
+      "displayName": "Joueur doué - Sora",
+      "unlocked": true,
+      "unlockTime": "2026-09-01T19:33:44.000Z"
+    },
+    {
+      "apiName": "ACH_061",
+      "displayName": "Joueur novice - Sora",
+      "unlocked": true,
+      "unlockTime": "2026-09-01T19:33:44.000Z"
+    },
+    {
+      "apiName": "ACH_068",
+      "displayName": "Dormir pour se souvenir",
+      "unlocked": true,
+      "unlockTime": "2026-09-01T19:33:44.000Z"
+    },
+    {
+      "apiName": "ACH_090",
+      "displayName": "Bravoure indéfectible",
+      "unlocked": true,
+      "unlockTime": "2026-09-01T19:33:44.000Z"
+    },
     {
       "apiName": "ACH_072",
       "displayName": "La vérité",
@@ -1221,43 +1257,7 @@
       "displayName": "Chasseur d'abeilles",
       "unlocked": true,
       "unlockTime": "2026-08-30T20:04:52.000Z"
-    },
-    {
-      "apiName": "ACH_082",
-      "displayName": "Pro des mini-jeux - Sora",
-      "unlocked": true,
-      "unlockTime": "2026-08-30T19:55:59.000Z"
-    },
-    {
-      "apiName": "ACH_066",
-      "displayName": "Voltigeur",
-      "unlocked": true,
-      "unlockTime": "2026-08-30T19:47:49.000Z"
-    },
-    {
-      "apiName": "ACH_065",
-      "displayName": "Sauteur",
-      "unlocked": true,
-      "unlockTime": "2026-08-30T19:43:37.000Z"
-    },
-    {
-      "apiName": "ACH_064",
-      "displayName": "Barreur",
-      "unlocked": true,
-      "unlockTime": "2026-08-30T19:32:59.000Z"
-    },
-    {
-      "apiName": "ACH_063",
-      "displayName": "Trieur de légumes",
-      "unlocked": true,
-      "unlockTime": "2026-08-30T19:23:30.000Z"
-    },
-    {
-      "apiName": "ACH_071",
-      "displayName": "Souvenirs entremêlés",
-      "unlocked": true,
-      "unlockTime": "2026-08-30T12:22:08.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T19:30:37.339Z"
+  "updatedAt": "2026-09-01T20:00:42.392Z"
 }
