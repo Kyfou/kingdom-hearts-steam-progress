@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 117,
+    "unlocked": 118,
     "total": 197,
-    "percent": 59.39,
+    "percent": 59.9,
     "items": [
       {
         "apiName": "ACH_001",
@@ -485,8 +485,8 @@
       {
         "apiName": "ACH_080",
         "displayName": "Conteur - Sora",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-01T17:38:15.000Z"
       },
       {
         "apiName": "ACH_081",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 8616,
-    "hours": 143.6
+    "minutes": 8646,
+    "hours": 144.1
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_080",
+      "displayName": "Conteur - Sora",
+      "unlocked": true,
+      "unlockTime": "2026-09-01T17:38:15.000Z"
+    },
     {
       "apiName": "ACH_098",
       "displayName": "Nabab",
@@ -1251,13 +1257,7 @@
       "displayName": "Sur le fil du rasoir",
       "unlocked": true,
       "unlockTime": "2026-08-27T18:32:03.000Z"
-    },
-    {
-      "apiName": "ACH_070",
-      "displayName": "Carte de souvenance",
-      "unlocked": true,
-      "unlockTime": "2026-08-26T20:39:56.000Z"
     }
   ],
-  "updatedAt": "2026-09-01T17:30:36.501Z"
+  "updatedAt": "2026-09-01T18:00:38.174Z"
 }
