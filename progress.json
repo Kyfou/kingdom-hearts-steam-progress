@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 127,
+    "unlocked": 128,
     "total": 197,
-    "percent": 64.47,
+    "percent": 64.97,
     "items": [
       {
         "apiName": "ACH_001",
@@ -515,8 +515,8 @@
       {
         "apiName": "ACH_085",
         "displayName": "Conteur - Riku",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T12:29:37.000Z"
       },
       {
         "apiName": "ACH_086",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 9017,
-    "hours": 150.28
+    "minutes": 9047,
+    "hours": 150.78
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_085",
+      "displayName": "Conteur - Riku",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T12:29:37.000Z"
+    },
     {
       "apiName": "ACH_076",
       "displayName": "Les Ténèbres en soi",
@@ -1251,13 +1257,7 @@
       "displayName": "La vérité",
       "unlocked": true,
       "unlockTime": "2026-09-01T19:17:51.000Z"
-    },
-    {
-      "apiName": "ACH_080",
-      "displayName": "Conteur - Sora",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T17:38:15.000Z"
     }
   ],
-  "updatedAt": "2026-09-02T14:30:42.392Z"
+  "updatedAt": "2026-09-05T12:30:36.705Z"
 }
