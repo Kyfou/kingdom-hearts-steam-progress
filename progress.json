@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 135,
+    "unlocked": 136,
     "total": 197,
-    "percent": 68.53,
+    "percent": 69.04,
     "items": [
       {
         "apiName": "ACH_001",
@@ -611,8 +611,8 @@
       {
         "apiName": "ACH_101",
         "displayName": "Chasseur de trésors",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T16:50:18.000Z"
       },
       {
         "apiName": "ACH_102",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 9158,
-    "hours": 152.63
+    "minutes": 9205,
+    "hours": 153.42
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_101",
+      "displayName": "Chasseur de trésors",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T16:50:18.000Z"
+    },
     {
       "apiName": "ACH_093",
       "displayName": "Briseur de cartes",
@@ -1251,13 +1257,7 @@
       "displayName": "Les Ténèbres en soi",
       "unlocked": true,
       "unlockTime": "2026-09-01T20:59:16.000Z"
-    },
-    {
-      "apiName": "ACH_075",
-      "displayName": "Affronter les Ténèbres",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T20:05:29.000Z"
     }
   ],
-  "updatedAt": "2026-09-05T16:30:36.149Z"
+  "updatedAt": "2026-09-05T17:00:39.396Z"
 }
