@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 128,
+    "unlocked": 129,
     "total": 197,
-    "percent": 64.97,
+    "percent": 65.48,
     "items": [
       {
         "apiName": "ACH_001",
@@ -581,8 +581,8 @@
       {
         "apiName": "ACH_096",
         "displayName": "Maître ès duels",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T12:31:01.000Z"
       },
       {
         "apiName": "ACH_097",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 9047,
-    "hours": 150.78
+    "minutes": 9077,
+    "hours": 151.28
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_096",
+      "displayName": "Maître ès duels",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T12:31:01.000Z"
+    },
     {
       "apiName": "ACH_085",
       "displayName": "Conteur - Riku",
@@ -1251,13 +1257,7 @@
       "displayName": "Bravoure indéfectible",
       "unlocked": true,
       "unlockTime": "2026-09-01T19:33:44.000Z"
-    },
-    {
-      "apiName": "ACH_072",
-      "displayName": "La vérité",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T19:17:51.000Z"
     }
   ],
-  "updatedAt": "2026-09-05T12:30:36.705Z"
+  "updatedAt": "2026-09-05T13:00:37.700Z"
 }
