@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 129,
+    "unlocked": 134,
     "total": 197,
-    "percent": 65.48,
+    "percent": 68.02,
     "items": [
       {
         "apiName": "ACH_001",
@@ -347,8 +347,8 @@
       {
         "apiName": "ACH_057",
         "displayName": "Joueur expert - Riku",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T15:59:47.000Z"
       },
       {
         "apiName": "ACH_058",
@@ -365,8 +365,8 @@
       {
         "apiName": "ACH_060",
         "displayName": "Joueur doué - Riku",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T15:59:47.000Z"
       },
       {
         "apiName": "ACH_061",
@@ -377,8 +377,8 @@
       {
         "apiName": "ACH_062",
         "displayName": "Joueur novice - Riku",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T15:59:47.000Z"
       },
       {
         "apiName": "ACH_063",
@@ -443,8 +443,8 @@
       {
         "apiName": "ACH_073",
         "displayName": "La voie de l'aube",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T15:59:47.000Z"
       },
       {
         "apiName": "ACH_074",
@@ -467,8 +467,8 @@
       {
         "apiName": "ACH_077",
         "displayName": "Triompher des Ténèbres",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T15:53:47.000Z"
       },
       {
         "apiName": "ACH_078",
@@ -1194,10 +1194,40 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 9098,
-    "hours": 151.63
+    "minutes": 9128,
+    "hours": 152.13
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_057",
+      "displayName": "Joueur expert - Riku",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T15:59:47.000Z"
+    },
+    {
+      "apiName": "ACH_060",
+      "displayName": "Joueur doué - Riku",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T15:59:47.000Z"
+    },
+    {
+      "apiName": "ACH_062",
+      "displayName": "Joueur novice - Riku",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T15:59:47.000Z"
+    },
+    {
+      "apiName": "ACH_073",
+      "displayName": "La voie de l'aube",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T15:59:47.000Z"
+    },
+    {
+      "apiName": "ACH_077",
+      "displayName": "Triompher des Ténèbres",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T15:53:47.000Z"
+    },
     {
       "apiName": "ACH_096",
       "displayName": "Maître ès duels",
@@ -1227,37 +1257,7 @@
       "displayName": "Joueur expert - Sora",
       "unlocked": true,
       "unlockTime": "2026-09-01T19:33:44.000Z"
-    },
-    {
-      "apiName": "ACH_058",
-      "displayName": "Invaincu",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T19:33:44.000Z"
-    },
-    {
-      "apiName": "ACH_059",
-      "displayName": "Joueur doué - Sora",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T19:33:44.000Z"
-    },
-    {
-      "apiName": "ACH_061",
-      "displayName": "Joueur novice - Sora",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T19:33:44.000Z"
-    },
-    {
-      "apiName": "ACH_068",
-      "displayName": "Dormir pour se souvenir",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T19:33:44.000Z"
-    },
-    {
-      "apiName": "ACH_090",
-      "displayName": "Bravoure indéfectible",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T19:33:44.000Z"
     }
   ],
-  "updatedAt": "2026-09-05T13:30:36.426Z"
+  "updatedAt": "2026-09-05T16:00:41.102Z"
 }
