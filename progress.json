@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 134,
+    "unlocked": 135,
     "total": 197,
-    "percent": 68.02,
+    "percent": 68.53,
     "items": [
       {
         "apiName": "ACH_001",
@@ -563,8 +563,8 @@
       {
         "apiName": "ACH_093",
         "displayName": "Briseur de cartes",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-05T16:26:58.000Z"
       },
       {
         "apiName": "ACH_094",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 9128,
-    "hours": 152.13
+    "minutes": 9158,
+    "hours": 152.63
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_093",
+      "displayName": "Briseur de cartes",
+      "unlocked": true,
+      "unlockTime": "2026-09-05T16:26:58.000Z"
+    },
     {
       "apiName": "ACH_057",
       "displayName": "Joueur expert - Riku",
@@ -1251,13 +1257,7 @@
       "displayName": "Affronter les Ténèbres",
       "unlocked": true,
       "unlockTime": "2026-09-01T20:05:29.000Z"
-    },
-    {
-      "apiName": "ACH_056",
-      "displayName": "Joueur expert - Sora",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T19:33:44.000Z"
     }
   ],
-  "updatedAt": "2026-09-05T16:00:41.102Z"
+  "updatedAt": "2026-09-05T16:30:36.149Z"
 }
