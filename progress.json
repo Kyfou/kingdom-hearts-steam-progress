@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 136,
+    "unlocked": 137,
     "total": 197,
-    "percent": 69.04,
+    "percent": 69.54,
     "items": [
       {
         "apiName": "ACH_001",
@@ -575,8 +575,8 @@
       {
         "apiName": "ACH_095",
         "displayName": "Agresseur",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-09-06T12:15:37.000Z"
       },
       {
         "apiName": "ACH_096",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 9235,
-    "hours": 153.92
+    "minutes": 9265,
+    "hours": 154.42
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_095",
+      "displayName": "Agresseur",
+      "unlocked": true,
+      "unlockTime": "2026-09-06T12:15:37.000Z"
+    },
     {
       "apiName": "ACH_101",
       "displayName": "Chasseur de trésors",
@@ -1251,13 +1257,7 @@
       "displayName": "Conteur - Riku",
       "unlocked": true,
       "unlockTime": "2026-09-05T12:29:37.000Z"
-    },
-    {
-      "apiName": "ACH_076",
-      "displayName": "Les Ténèbres en soi",
-      "unlocked": true,
-      "unlockTime": "2026-09-01T20:59:16.000Z"
     }
   ],
-  "updatedAt": "2026-09-06T12:00:20.139Z"
+  "updatedAt": "2026-09-06T12:30:20.631Z"
 }
