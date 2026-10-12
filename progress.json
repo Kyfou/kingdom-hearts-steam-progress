@@ -4,9 +4,9 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "achievements": {
-    "unlocked": 137,
+    "unlocked": 138,
     "total": 197,
-    "percent": 69.54,
+    "percent": 70.05,
     "items": [
       {
         "apiName": "ACH_001",
@@ -491,8 +491,8 @@
       {
         "apiName": "ACH_081",
         "displayName": "Érudit - Sora",
-        "unlocked": false,
-        "unlockTime": null
+        "unlocked": true,
+        "unlockTime": "2026-10-12T10:04:29.000Z"
       },
       {
         "apiName": "ACH_082",
@@ -1194,10 +1194,16 @@
   },
   "playtime": {
     "available": true,
-    "minutes": 9723,
-    "hours": 162.05
+    "minutes": 9753,
+    "hours": 162.55
   },
   "recentUnlocked": [
+    {
+      "apiName": "ACH_081",
+      "displayName": "Érudit - Sora",
+      "unlocked": true,
+      "unlockTime": "2026-10-12T10:04:29.000Z"
+    },
     {
       "apiName": "ACH_095",
       "displayName": "Agresseur",
@@ -1251,13 +1257,7 @@
       "displayName": "Maître ès duels",
       "unlocked": true,
       "unlockTime": "2026-09-05T12:31:01.000Z"
-    },
-    {
-      "apiName": "ACH_085",
-      "displayName": "Conteur - Riku",
-      "unlocked": true,
-      "unlockTime": "2026-09-05T12:29:37.000Z"
     }
   ],
-  "updatedAt": "2026-10-12T10:00:30.191Z"
+  "updatedAt": "2026-10-12T10:30:28.445Z"
 }
